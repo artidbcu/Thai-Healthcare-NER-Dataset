@@ -24,7 +24,7 @@ It was developed using a **rule-based word reconstruction algorithm** combined w
 | `thai_healthcare_instruction.json` | JSON | Instruction-format dataset for instruction-tuned LLMs. |
 | `original_articles_metadata.csv` | CSV | Metadata of 500 Thai healthcare journal articles (title, abstract, keywords, journal, year, URI). |
 | `snomed_mapping_guidelines.pdf` | PDF | Annotation and SNOMED CT mapping guidelines, including prompt templates for Typhoon 2.0. |
-| `src/` | Folder | Python scripts for preprocessing, POS tagging, compound word reconstruction, SNOMED CT annotation, and BIO conversion. |
+| `ThaiHealthcare_NER_BIO.ipynb` | Folder | Python scripts for preprocessing, POS tagging, compound word reconstruction, SNOMED CT annotation, and BIO conversion. |
 
 ---
 
